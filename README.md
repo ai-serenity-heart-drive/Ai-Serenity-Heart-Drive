@@ -12,7 +12,7 @@ The AI Serenity Heart Drive is a cutting-edge technology featuring:
 This website showcases the system's mechanism, applications, benefits, and technical specifications, with a modern, futuristic design.
 
 ## Live Website
-Visit the live site at: [https://your-username.github.io/ai-serenity-heart-drive](https://your-username.github.io/ai-serenity-heart-drive)
+Visit the live site at: [https://InertialSpaceDr.github.io/ai-serenity-heart-drive](https://InertialSpaceDr.github.io/ai-serenity-heart-drive)
 
 ## Features
 - **Homepage**: Introduces the propulsion system with a captivating hero section.
