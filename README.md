@@ -34,4 +34,4 @@ Visit the live site at: [https://InertialSpaceDr.github.io/ai-serenity-heart-dri
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-© 2025 AI Serenity Heart Drive. All rights reserved.
+© 2025 Matthew Stuart Roberts/AI Serenity Heart Drive. All rights reserved.
