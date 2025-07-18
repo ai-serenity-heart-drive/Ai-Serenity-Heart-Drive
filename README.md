@@ -31,7 +31,6 @@ Visit the live site at: [[https://InertialSpaceDr.github.io/ai-serenity-heart-dr
 - Contact form powered by [Formspree](https://formspree.io/).
 - Replace placeholder images (e.g., in the hero section) with actual visuals of the propulsion system.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is patent pending. © 2015-2025 Matthew Stuart Roberts/AI Serenity Heart Drive. All rights reserved.
 
-© 2025 Matthew Stuart Roberts/AI Serenity Heart Drive. All rights reserved.
+
