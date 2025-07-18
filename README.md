@@ -3,11 +3,7 @@
 Welcome to the official website for the **AI Serenity Heart Drive**, a revolutionary propulsion system designed to transform vehicle performance with unparalleled acceleration, braking, and efficiency.
 
 ## About
-The AI Serenity Heart Drive is a cutting-edge technology featuring:
-- Dual mechanical spring chambers with relooping design.
-- A mirrored teardrop-shaped relooping mechanism.
-- A flywheel mechanical gear puck in a rail system.
-- A torsion vector lock for precise energy management.
+The AI Serenity Heart Drive is a cool technology, 
 
 This website showcases the system's mechanism, applications, benefits, and technical specifications, with a modern, futuristic design.
 
