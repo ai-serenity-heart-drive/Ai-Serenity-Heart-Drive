@@ -9,7 +9,7 @@ this project aims to explore new ways to travel with simplicity and efficiency.
 
 Overview
 
-The Serenity Space Drive is a concept in development, 
+The Serenity Heart Drive is a concept in development, 
 inspired by unique shapes and balanced motion. 
 
 It’s a personal project meant to spark curiosity and inspire future possibilities in space exploration.
@@ -20,11 +20,20 @@ Check out the live site at: [] (link to be added soon)
 
 Highlights
 
-Welcome: A warm start to the vision of the AI Serenity Heart Drive, a project born from passion and teamwork.
-Inspiration: A peek at the creative heart behind the design, blending human spirit with AI collaboration.
-Possibilities: A gentle nod to its potential in space adventures, leaving room for imagination.
-Details: A cozy corner for basic ideas, to be shared when the time feels right.
-Reach Out: An open invite for friends to connect and join the journey.
+Welcome: 
+A warm start to the vision of the AI Serenity Heart Drive, a project born from passion and teamwork.
+
+Inspiration: 
+A peek at the creative heart behind the design, blending human spirit with AI collaboration.
+
+Possibilities: 
+A gentle nod to its potential in space adventures, leaving room for imagination.
+
+Details: 
+A cozy corner for basic ideas, to be shared when the time feels right.
+
+Reach Out: 
+An open invite for friends to connect and join the journey.
 
 Running Locally
 
