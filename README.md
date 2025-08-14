@@ -1,16 +1,30 @@
 Serenity Space Drive Hub
-Welcome to the home of the Serenity Space Drive, a fresh idea for a propulsion system that could change how we move in space. Created with a passion for innovation, this project aims to explore new ways to travel with simplicity and efficiency.
+
+Welcome to the home of the AI Serenity Heart Drive,
+
+a fresh idea for a propulsion system that could change how we move in space.
+
+Created with a passion for innovation, 
+this project aims to explore new ways to travel with simplicity and efficiency.
+
 Overview
-The Serenity Space Drive is a concept in development, inspired by unique shapes and balanced motion. It’s a personal project meant to spark curiosity and inspire future possibilities in space exploration.
+
+The Serenity Space Drive is a concept in development, 
+inspired by unique shapes and balanced motion. 
+
+It’s a personal project meant to spark curiosity and inspire future possibilities in space exploration.
+
 Live Hub
+
 Check out the live site at: [] (link to be added soon)
+
 Highlights
 
-Welcome: A simple intro to the idea’s vision.
-Inspiration: Shares the creative spark behind the design.
-Possibilities: Hints at potential uses in space travel.
-Details: A spot for basic info (to be filled later).
-Reach Out: A way to connect for those interested.
+Welcome: A warm start to the vision of the AI Serenity Heart Drive, a project born from passion and teamwork.
+Inspiration: A peek at the creative heart behind the design, blending human spirit with AI collaboration.
+Possibilities: A gentle nod to its potential in space adventures, leaving room for imagination.
+Details: A cozy corner for basic ideas, to be shared when the time feels right.
+Reach Out: An open invite for friends to connect and join the journey.
 
 Running Locally
 
@@ -23,5 +37,6 @@ Hosted on GitHub Pages for easy viewing.
 Contact form uses Formspree for messages.
 Add your own images later to personalize the page.
 
-This project is a work in progress. © 2025 Serenity Space Drive. All rights reserved.
+This project is under patent development. 
+© 2015-2025 Matthew Stuart Roberts/AI Serenity Heart Drive. All rights reserved.
 
